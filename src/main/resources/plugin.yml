@@ -1,0 +1,8 @@
+name: PerPlayerKit
+version: '${project.version}'
+main: com.vanillapractice.net.perplayerkit.Main
+api-version: 1.17
+commands:
+  kit:
+    usage: /<command>
+    permission: kit.use
